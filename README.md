@@ -15,7 +15,12 @@
          <img width="175px" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
       </a>
    </p>
-
+* <p> Video hosting on Django
+      <a href="https://github.com/KeyZ08/VideoHosting2">
+         <img width="175px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+      </a>
+   </p>
+   
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=KeyZ08&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=KeyZ08&show_icons=true&count_private=true"/></a>
