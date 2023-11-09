@@ -9,6 +9,14 @@
 * MS SQL
 * Github
 
+### My best works
+<p>
+   <a href="https://play.google.com/store/apps/details?id=com.KeyZ08.MTGame.mobile2D">
+      Магическая таблица умножения
+      <img width="175px" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+   </a>
+</p>
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=KeyZ08&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=KeyZ08&show_icons=true&count_private=true"/></a>
@@ -17,7 +25,7 @@
 </p>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/KeyZ08/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=KeyZ08&color=20B2AA">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=KeyZ08&color=20213C">
    </a>
 </div>
 <p align='center'>
