@@ -12,12 +12,12 @@
 ### My best works
  * <p> Магическая таблица умножения in 
       <a href="https://play.google.com/store/apps/details?id=com.KeyZ08.MTGame.mobile2D">
-         <img height="50px" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+         <img height="14px" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
       </a>
    </p>
 * <p> Video hosting on 
       <a href="https://github.com/KeyZ08/VideoHosting2">
-         <img height="50px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+         <img height="14px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
       </a>
    </p>
    
